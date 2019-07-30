@@ -15,5 +15,7 @@ Most details in the CSV File
 
 To Run the framework by command line:
 
-jmeter -n -t <name_of_the_file_.jmx> Jambiente=<environment>
+jmeter -n -t <name_of_the_file_.jmx> Jambiente=<des_qa_uat>
+  
+  Obs: Set Jmeter in the environment variables and configure the jmx with the proper credentials
 
